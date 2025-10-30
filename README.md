@@ -1,6 +1,6 @@
 ### Luiz Marcolino
 
-Sou **UI Designer & Web Developer**, focado em criar <br> interfaces  funcionais e experiências digitais.
+Sou **UI Designer & Web Developer**, focado em criar <br> interfaces e experiências digitais.
 <br>
 
 Quer fechar um projeto comigo? [Cal.com](https://cal.com/luiizmarcoliino/15min) <br>
