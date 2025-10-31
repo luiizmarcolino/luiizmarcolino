@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/Yab8tQj.png" alt="Image com ícone">
+
 ### Luiz Marcolino
 
 Sou **UI Designer & Web Developer**, focado em criar <br> interfaces e experiências digitais.
